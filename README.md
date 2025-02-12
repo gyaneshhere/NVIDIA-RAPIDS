@@ -1,2 +1,4 @@
 # NVIDIA-s-RAPIDS
-Accelerate your workflow without code change
+ RAPIDS documentation.
+
+https://docs.rapids.ai
